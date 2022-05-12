@@ -134,3 +134,4 @@ dmypy.json
 *.gz
 *.RData
 *.RDataTmp
+*.txt

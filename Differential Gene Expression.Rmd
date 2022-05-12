@@ -148,11 +148,14 @@ resOrdered
 ```
 
 ```{r}
-
+GDE = data.frame(resOrdered$log2FoldChange, resOrdered$pvalue)
+rownames(GDE) = resOrdered@rownames
+colnames(GDE) = c('Log2FoldChange','Ordered$pvalue')
+GDE
 ```
 
-
-
-
+```{r}
+write.csv(GDE, "GDE_Outcome.csv", row.names = TRUE)
+```
 
 
