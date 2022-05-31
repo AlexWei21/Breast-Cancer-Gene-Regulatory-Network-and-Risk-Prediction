@@ -2,14 +2,6 @@
 
 Group Member: Jinglun Li, Yidan Ma, Zhengkuan Tang, Ziming Wei
 
-# Contributors _(In Alphabetical Order)_
-
-| **Jinglun Li** _Email Address:_jinglun\_li@hsph.harvard.edu_Harvard ID:_ 21515809 | **Yidan Ma** _Email Address:_yidan\_ma@hsph.harvard.edu_Harvard ID:_ 71515524 |
-| --- | --- |
-| **Zhengkuan Tang** _Email Address:_zhengkuan\_tang@hsph.harvard.edu_Harvard ID:_ 11462952 | **Ziming Wei** _Email Address:_zimingwei@hsph.harvard.edu_Harvard ID:_ 41515244 |
-
-##
-
 ## Background
 
 Breast Cancer is one of the most common cancers in the world. According to the National Breast Cancer Foundation, there was an estimated 281,550 new cases of invasive breast cancers in the U.S. in 2021, and an estimated number of 43,600 women died from breast cancer in the U.S. [1] The huge population of breast cancer is a huge driving force for breast cancer research both in dry lab and wet lab. Though there were already a lot of researches done in discovering the mechanism of breast cancer, most of them were conducted in the wet lab and couldn&#39;t completely explain the mechanism of breast cancer at a genomic level. Most of the therapeutics now are still through surgeries, and according to the Cancer Treatment Centers of America, leads to an average of 7 percent to 11 percent Recurrent Rate of Breast Cancer. [2] In order to decrease the rate of recurrence, we have to create a gene network and use machine learning algorithms to find out important target genes for possible gene therapies for Breast Cancer.
