@@ -1,6 +1,6 @@
 # **Gene Regulatory Network and Cancer Prediction in Breast Cancer**
 
-Group Member: Jinglun Li, Yidan Ma, Zhengkuan Tang, Ziming Wei
+Contributors: Jinglun Li, Yidan Ma, Zhengkuan Tang, Ziming Wei
 
 ## Background
 
